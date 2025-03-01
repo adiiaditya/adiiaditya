@@ -2,10 +2,14 @@ Hi 👋 I'm Aditya, a software engineer working out of Chicago.
 
 - 🔭 I’m currently working in the PLS org of [Expedia](https://www.expedia.com).
 - 🌱 I’m currently learning Go and Cloud
+- 🌟 Lifelong Student
+
+
+
 
 <!--
 **adiiaditya/adiiaditya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=adiiaditya)
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
